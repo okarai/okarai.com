@@ -1,7 +1,7 @@
 baseurl = "https://okarai.com"
 title = "Okarai"
 copyright = "&copy; 2017 Okarai"
-theme = "academic"
+theme = "okarai"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
